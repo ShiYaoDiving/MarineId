@@ -1,0 +1,9 @@
+python 3.11.4
+pySide6
+requests
+piexif
+moviepy
+Pillow
+bs4
+lxml
+opencc
